@@ -10,6 +10,11 @@
     margin: 10px;
 }
 
+.member:hover{
+    box-shadow: 2px 4px 8px blue;
+    
+}
+
 
 .member img{
     height: auto;
